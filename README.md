@@ -61,7 +61,21 @@
 - **Instagram:** [@nsl2j](https://instagram.com/nsl2j)
 - **GitHub:** [1AhmedS](https://github.com/1AhmedS)
 
+<div align="center">
+  <h2>الغات المستخدمة 🔨</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1AhmedS&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="GitHub Trophies" />
+</div>
 
+<div align="center" style="margin-top: 50px;">
+  <p>
+    <a href="https://github.com/1AhmedS">
+      <img src="https://img.shields.io/github/followers/1AhmedS?label=Follow&style=social" alt="GitHub Follow"/>
+    </a>
+    <a href="https://paypal.me/ASamir941">
+      <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=flat" alt="Buy Me a Coffee"/>
+    </a>
+  </p>
+</div>
 
 
 
