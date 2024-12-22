@@ -29,6 +29,30 @@
    npm install
    ```
 
+3. **Host Use [Discloud](https://github.com/discloud) (Optional) :**
+
+1- قم فتح ملف discloud.config وعدل علي الأسم و رابط الأفتار 
+   ```bash
+   # https://docs.discloudbot.com/discloud.config
+   ID=
+   TYPE=bot
+   MAIN=src/index.js
+   NAME=Testoboto
+   AVATAR=https://i.ibb.co/F8ZnPjP/vampire-red-1.gif
+   RAM=100
+   AUTORESTART=false
+   VERSION=latest
+   APT=
+   BUILD=
+   START=
+   ```
+2- اذهب الي [الموقع](https://discloud.com/) وسجل دخول
+3- اضغط علي ADD APP 
+4- قم بسحب الملفات ورفعها
+5- مبروك عليك البوت شغال وما يوقف
+
+
+ 
 ## 📝 الأعدادات
 
 
@@ -63,7 +87,7 @@
 
 <div align="center">
   <h2>Support 💌</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1AhmedS&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1AhmedS&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="support" />
 </div>
 
 <div align="center" style="margin-top: 50px;">
