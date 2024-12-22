@@ -1,7 +1,7 @@
 const { Client, ActivityType, GatewayIntentBits, Partials } = require('discord.js');
 const { CommandKit } = require('commandkit');
 const { joinVoiceChannel } = require('@discordjs/voice');
-const VOICE_CHANNEL_ID = '1156719959519547462'; 
+const VOICE_CHANNEL_ID = 'االروم الي يخشه البوت لما يشتغل'; 
 
 require('dotenv/config');
 
@@ -39,4 +39,4 @@ client.once('ready', () => {
 });
 
 
-client.login(process.env.TOKEN);
+client.login("التوكن حق البوت");
