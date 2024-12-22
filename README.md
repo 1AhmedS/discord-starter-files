@@ -19,7 +19,7 @@
 1. **Clone the Repository :**
 
    ```bash
-   git clone https://github.com/wickstudio/discord-music-bot.git
+   git clone https://github.com/1AhmedS/discord-starter-files.git
    cd discord-starter-files
    ```
 
