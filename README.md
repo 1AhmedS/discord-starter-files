@@ -1,3 +1,9 @@
+<div align="center">
+  <p>
+    <img align="center" alt="Main-banner" src="https://i.ibb.co/h9z2BSh/discord-starter-files.png" />
+  </p>
+</div>
+
 # Discord Starter Files 📁
 
 ## 📦 التثبيت
