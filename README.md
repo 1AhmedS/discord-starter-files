@@ -62,7 +62,7 @@
 - **GitHub:** [1AhmedS](https://github.com/1AhmedS)
 
 <div align="center">
-  <h2>الغات المستخدمة 🔨</h2>
+  <h2>Support 💌</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1AhmedS&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="GitHub Trophies" />
 </div>
 
