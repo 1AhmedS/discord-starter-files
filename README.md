@@ -86,12 +86,8 @@
 - **Instagram:** [@nsl2j](https://instagram.com/nsl2j)
 - **GitHub:** [1AhmedS](https://github.com/1AhmedS)
 
-<div align="center">
+<div align="center" style="margin-top: 50px">
   <h2>Support 💌</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1AhmedS&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="support" />
-</div>
-
-<div align="center" style="margin-top: 50px;">
   <p>
     <a href="https://github.com/1AhmedS">
       <img src="https://img.shields.io/github/followers/1AhmedS?label=Follow&style=social" alt="GitHub Follow"/>
@@ -101,6 +97,7 @@
     </a>
   </p>
 </div>
+
 
 
 
