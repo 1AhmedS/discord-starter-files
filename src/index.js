@@ -39,4 +39,4 @@ client.once('ready', () => {
 });
 
 
-client.login("التوكن حق البوت");
+client.login(process.env.TOKEN);
